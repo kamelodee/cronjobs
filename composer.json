@@ -13,7 +13,6 @@
         "laravel/framework": "^8.75",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
-        "phpxmlrpc/phpxmlrpc": "^4.6",
         "tbondois/odoo-ripcord": "^1.7"
     },
     "require-dev": {
